@@ -8,7 +8,7 @@ Cuenta con 26 módulos, 4 formularios y 2968 líneas de código.
 
 Para consultas, por favor contactarme.
 
-# Macro to simulate bond issues and liability management operations
+# Macro to simulate bond issues and liability management operations with Peruvian Treasury Bonds
 
 Tool developed by Pedro Portocarrero, using VBA and Microsoft Excel
 
